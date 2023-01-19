@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TheoCorn
-- 👀 I’m interested in android development and embeded development
-- 🌱 I’m currently learning android compose and c++
+- 👀 I’m currenty interested in window managers, declerative ui frameworks.
+- 🌱 I’m currently learning sortof every thing or nothing (schoole is a bummer).
 - 📫 How to reach me theo@capek.aero
 
 <!---
